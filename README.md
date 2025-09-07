@@ -16,7 +16,7 @@ Translation, Textures, Cheats, Playtesting: [Etokapa](https://github.com/Etokapa
 
 File Format Research, Programming, Cheats, Introducing me to the game: [Kaisaan](https://github.com/Kaisaan)
 
-Additional Programming: [NightWolve](https://x.com/NightWolve75)
+Additional Programming (`KernelEK.dll` to allow longer Skill Descriptions): [NightWolve](https://x.com/NightWolve75)
 
 Playtesting: [Sugunii](https://bsky.app/profile/sugunii.bsky.social)
 
