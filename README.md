@@ -5,7 +5,7 @@
 This is a full English translation for [White Silhouette](http://erst.testament.client.jp/)'s 2008 3D Bullet Hell game, [Erst Kerf](http://erst.testament.client.jp/).
 
 ## Installation:
-Download the latest patch from the [Releases](https://github.com/Erst-Kerf-English-Translation-Patch/releases/latest) page.
+Download the latest patch from the [Releases](https://github.com/Etokapa/Erst-Kerf-English-Translation-Patch/releases/latest) page. 
 
 Extract and overwrite all files in the Erst Kerf folder.
 
