@@ -30,7 +30,7 @@ HWND WINAPI MyCreateWindowExA(
 		y = rcRect.left + (rcRect.bottom-rcRect.top-nHeight)/2;
 	}
 // Might as well make it a TOPMOST window
-	return CreateWindowExA(WS_EX_TOPMOST, lpClassName, NewWindowTitle, dwStyle, x, y, nWidth, nHeight, hWndParent, hMenu, hInstance, lpParam);
+	return CreateWindowExA(dwExStyle, lpClassName, NewWindowTitle, dwStyle, x, y, nWidth, nHeight, hWndParent, hMenu, hInstance, lpParam);
 }
 
 

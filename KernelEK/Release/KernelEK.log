@@ -1,0 +1,6 @@
+﻿cl : command line  warning D9035: option 'Zc:forScope-' has been deprecated and will be removed in a future release
+  DllMain.cpp
+     Creating library Release\KernelEK.lib and object Release\KernelEK.exp
+  Generating code
+  Finished generating code
+  KernelEK.vcxproj -> C:\Users\kaisaan\Downloads\game stuff\erst_kerf_english\KernelEK\Release\KernelEK.dll
